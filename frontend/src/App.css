@@ -1,0 +1,20 @@
+.app-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial;
+}
+
+.job-form input,
+.job-form select,
+.job-form button {
+  margin: 5px;
+  padding: 8px;
+}
+
+.job-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
